@@ -19,5 +19,6 @@ Förderkennzeichen: Förderkennzeichen: 19F2079C
 
 ## GRASS GIS addons
 
-* [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel)
+* [r.change.stats](https://github.com/mundialis/r.change.stats)
 * [r.import.worker](https://github.com/mundialis/r.import.worker)
+* [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel)
