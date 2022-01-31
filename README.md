@@ -22,3 +22,4 @@ Förderkennzeichen: Förderkennzeichen: 19F2079C
 * [r.change.stats](https://github.com/mundialis/r.change.stats)
 * [r.import.worker](https://github.com/mundialis/r.import.worker)
 * [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel)
+* [r.mapcalc.worker](https://github.com/mundialis/r.mapcalc.worker)
