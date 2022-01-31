@@ -16,3 +16,8 @@ The project is coordinated by the Institut für Landes- und Stadtentwicklungsfor
 Inwertsetzung von Copernicus-Daten für die Raumbeobachtung (incora). Berechnung von flächendeckenden Indikatoren für Siedlungs- und Verkehrsflächen aus Copernicus-Sentinel-Daten. Ziel des Projektvorhabens ist, Copernicus-Daten und -Dienste für die Raumbeobachtung in Wert zu setzen und dazu datenbasierte Anwendungen im Bereich "Fernerkundung/Satelliten" zu verbessern. Im Fokus steht die Ergänzung des Monitorings der Siedlungs- und Verkehrsflächen (SuV) mit Indikatoren zur Beschreibung qualitativer Aspekte des Flächenverbrauchs in Deutschland.
 
 Förderkennzeichen: Förderkennzeichen: 19F2079C
+
+## GRASS GIS addons
+
+* [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel)
+* [r.import.worker](https://github.com/mundialis/r.import.worker)
