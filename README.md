@@ -27,3 +27,6 @@ Förderkennzeichen: Förderkennzeichen: 19F2079C
     * r.incora.change: runs a change detection based on two input maps. The nomenclature is optimized for the incora project.
 * [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel) - GRASS GIS addon for running r.learn.predict in parallel.
 * [r.mapcalc.worker](https://github.com/mundialis/r.mapcalc.worker) - GRASS GIS worker addon to run r.mapcalc in parallel in different mapsets.
+
+![](https://www.mundialis.de/wordpress/wp-content/uploads/2021/04/Germany_2020-scaled.jpeg)
+Germany 2020 - Land cover based on Sentinel-2 data ([source](https://www.mundialis.de/en/deutschland-2020-landbedeckung-auf-basis-von-sentinel-2-daten/))
