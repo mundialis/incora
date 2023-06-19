@@ -19,8 +19,8 @@ Förderkennzeichen: Förderkennzeichen: 19F2079C
 
 ## GRASS GIS addons
 
-* [r.change.stats](https://github.com/mundialis/r.change.stats)
-* [r.import.worker](https://github.com/mundialis/r.import.worker)
-* [r.incora](https://github.com/mundialis/r.incora)
-* [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel)
-* [r.mapcalc.worker](https://github.com/mundialis/r.mapcalc.worker)
+* [r.change.stats](https://github.com/mundialis/r.change.stats) - GRASS GIS addon that calculates change statistics from two discrete raster maps. 
+* [r.import.worker](https://github.com/mundialis/r.import.worker) - GRASS GIS worker addon to run r.import in different mapsets.
+* [r.incora](https://github.com/mundialis/r.incora) - GRASS GIS addon for Incora landcover classification.
+* [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel) - GRASS GIS addon for running r.learn.predict in parallel.
+* [r.mapcalc.worker](https://github.com/mundialis/r.mapcalc.worker) - GRASS GIS worker addon to run r.mapcalc in parallel in different mapsets.
