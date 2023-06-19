@@ -21,6 +21,9 @@ Förderkennzeichen: Förderkennzeichen: 19F2079C
 
 * [r.change.stats](https://github.com/mundialis/r.change.stats) - GRASS GIS addon that calculates change statistics from two discrete raster maps. 
 * [r.import.worker](https://github.com/mundialis/r.import.worker) - GRASS GIS worker addon to run r.import in different mapsets.
-* [r.incora](https://github.com/mundialis/r.incora) - GRASS GIS addon for Incora landcover classification.
+* [r.incora](https://github.com/mundialis/r.incora) - GRASS GIS multi-addon for Incora landcover classification.
+    * v.incora.training_data: creates a vector map containing training points from a set of rules containing the output classes: forest, low vegetation, water, built-up, bare soil and agriculture.
+    * r.incora.postproc: uses post processing to deal with mixed pixels identified in v.incora.training_data. Mixed pixels (class 70) are removed from the map. The gaps are then filled using r.grow.distance.
+    * r.incora.change: runs a change detection based on two input maps. The nomenclature is optimized for the incora project.
 * [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel) - GRASS GIS addon for running r.learn.predict in parallel.
 * [r.mapcalc.worker](https://github.com/mundialis/r.mapcalc.worker) - GRASS GIS worker addon to run r.mapcalc in parallel in different mapsets.
